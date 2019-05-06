@@ -24,5 +24,6 @@ public class Name {
 			break;
 		}
 		System.out.println(res);
+		System.out.println("samir war hier");
 	}
 }
