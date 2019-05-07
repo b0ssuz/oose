@@ -4,7 +4,7 @@ public class Kassette implements Playable {
 
 	@Override
 	public void song() {
-		System.out.println("Alle meine Entchen.. Samir ist ne hoe");
+		System.out.println("Alle meine Entchen.. Samirmmm ist ne hoe");
 	}
 
 }
