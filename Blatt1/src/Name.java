@@ -24,6 +24,9 @@ public class Name {
 			break;
 		}
 		System.out.println(res);
+<<<<<<< HEAD
 		System.out.println("");
+=======
+>>>>>>> branch 'playground' of https://github.com/b0ssuz/oose.git
 	}
 }
