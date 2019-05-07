@@ -16,3 +16,9 @@ Jahr: 2019
 + [ ] Blatt 10
 + [ ] Blatt 11
 + [ ] Blatt 12
+
+# Online-Aufgaben
+
++ [ ]
++ [ ]
++ [ ]
