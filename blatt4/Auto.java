@@ -1,7 +1,6 @@
-public class Auto {
+public class Auto{
 	int reifen = 4;
-
-	int getReifen() {
+	int getReifen(){
 		return this.reifen;
 	}
 }

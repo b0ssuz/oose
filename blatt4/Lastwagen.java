@@ -1,7 +1,6 @@
-public class Lastwagen extends Auto {
+public class Lastwagen extends Auto{
 	int reifen = 8;
-
-	int getReifen() {
+	int getReifen(){
 		return this.reifen;
 	}
 }
