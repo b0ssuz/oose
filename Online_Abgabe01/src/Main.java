@@ -6,5 +6,6 @@ public class Main {
         Student Peter = new Student("Peter","Müller",3345543,5);
         Peter.anmelden(LA);
         Peter.anmelden(ANA);
+        Peter.anmelden(LA);
     }
 }
